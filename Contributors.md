@@ -72,6 +72,7 @@
 - [Wahid Ari](https://github.com/wahid-ari)
 - [KritikaTri](https://github.com/KritikaTri)
 - [Ashwin Taras](https://github.com/BlackBolt2003)
+- [ Nihal Soni](https://github.com/nihal-soni)
 - [Jahnvi](https://github.com/jahnvi15)
 - [Pranjal Raj](https://github.com/pranjal-raj)
 - [Sarthak Sachdeva](https://github.com/sarthakk24)
